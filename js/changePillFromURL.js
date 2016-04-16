@@ -1,0 +1,1 @@
+window.onload=function(){if(window.location.hash){var hash=window.location.hash;$("ul.nav.nav-pills.nav-stacked li a[href='"+hash+"']").click();}};
